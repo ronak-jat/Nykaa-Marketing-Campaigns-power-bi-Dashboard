@@ -26,7 +26,7 @@ Interactive slicers allow filtering by:
 3. Use the slicers to explore campaign insights.
 
 ## 📷 Dashboard Preview
-(https://github.com/ronak-jat/Nykaa-Marketing-Campaigns-power-bi-Dashboard/blob/main/Screenshots/Full_dashboard_SS.png)
+![Nykaa Dashboard](https://github.com/ronak-jat/Nykaa-Marketing-Campaigns-power-bi-Dashboard/blob/main/Screenshots/Full_dashboard_SS.png)
 
 ## 👩‍💻 Author
 Ronak Jat
